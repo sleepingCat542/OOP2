@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Account>
+    <number>1234</number>
+    <depositType>Срочные вклады</depositType>
+    <balance>7777</balance>
+    <openingDate>15 марта 2019 г.</openingDate>
+    <Owner>
+      <Name>Владимир</Name>
+      <Surname>Ирошко</Surname>
+      <MidName>Андреевич</MidName>
+      <Birthday>14 марта 2019 г.</Birthday>
+      <passportSeries>MP</passportSeries>
+      <passportId>554455</passportId>
+    </Owner>
+    <History>
+      <operationType>
+        <string>Перевод</string>
+        <string>Снятие</string>
+        <string>Добавление</string>
+      </operationType>
+      <TypeOfOperation>Перевод</TypeOfOperation>
+      <count>Cумма:</count>
+      <dataOfOreration>15 марта 2019 г.</dataOfOreration>
+    </History>
+    <smsAlert>true</smsAlert>
+    <internetBanking>true</internetBanking>
+  </Account>
+  <Account>
+    <number>345</number>
+    <depositType>Расчетные вклады</depositType>
+    <balance>23143</balance>
+    <openingDate>15 марта 2019 г.</openingDate>
+    <Owner>
+      <Name>Георгий</Name>
+      <Surname>Мороженков</Surname>
+      <MidName>Иванович</MidName>
+      <Birthday>14 марта 2019 г.</Birthday>
+      <passportSeries>MP</passportSeries>
+      <passportId>7933658</passportId>
+    </Owner>
+    <History>
+      <operationType>
+        <string>Перевод</string>
+        <string>Снятие</string>
+        <string>Добавление</string>
+      </operationType>
+      <TypeOfOperation>Перевод</TypeOfOperation>
+      <count>Cумма:</count>
+      <dataOfOreration>15 марта 2019 г.</dataOfOreration>
+    </History>
+    <smsAlert>true</smsAlert>
+    <internetBanking>true</internetBanking>
+  </Account>
+  <Account>
+    <number>435</number>
+    <depositType>Срочные вклады</depositType>
+    <balance>5364</balance>
+    <openingDate>5 апреля 2019 г.</openingDate>
+    <Owner>
+      <Name>Евгений</Name>
+      <Surname>Дорожкин</Surname>
+      <MidName>Алексеевич</MidName>
+      <Birthday>5 апреля 2019 г.</Birthday>
+      <passportSeries>TP</passportSeries>
+      <passportId>4564424</passportId>
+    </Owner>
+    <History>
+      <operationType>
+        <string>Перевод</string>
+        <string>Снятие</string>
+        <string>Добавление</string>
+      </operationType>
+      <TypeOfOperation>Снятие</TypeOfOperation>
+      <count>Сумма: 50 рублей</count>
+      <dataOfOreration>5 апреля 2019 г.</dataOfOreration>
+    </History>
+    <smsAlert>true</smsAlert>
+    <internetBanking>true</internetBanking>
+  </Account>
+</ArrayOfAccount>

@@ -1,0 +1,10 @@
+H:\ООП\Лабы\Lab1.2\Collection\Collection\obj\Debug\Collection.csprojAssemblyReference.cache
+H:\ООП\Лабы\Lab1.2\Collection\Collection\obj\Debug\Collection.Form1.resources
+H:\ООП\Лабы\Lab1.2\Collection\Collection\obj\Debug\Collection.Properties.Resources.resources
+H:\ООП\Лабы\Lab1.2\Collection\Collection\obj\Debug\Collection.csproj.GenerateResource.cache
+H:\ООП\Лабы\Lab1.2\Collection\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+H:\ООП\Лабы\Lab1.2\Collection\Collection\bin\Debug\Collection.exe.config
+H:\ООП\Лабы\Lab1.2\Collection\Collection\bin\Debug\Collection.exe
+H:\ООП\Лабы\Lab1.2\Collection\Collection\bin\Debug\Collection.pdb
+H:\ООП\Лабы\Lab1.2\Collection\Collection\obj\Debug\Collection.exe
+H:\ООП\Лабы\Lab1.2\Collection\Collection\obj\Debug\Collection.pdb

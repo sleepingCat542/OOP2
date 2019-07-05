@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<ArrayOfAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Account>
+    <number>738732</number>
+    <balance>33733</balance>
+    <openingDate>11.04.2019</openingDate>
+    <depositType>Расчетные вклады</depositType>
+    <Owner>
+      <Name>Владимир</Name>
+      <Surname>Морыч</Surname>
+      <MidName>Иванович</MidName>
+      <Birthday>11 апреля 2019 г.</Birthday>
+      <passportSeries>MP</passportSeries>
+      <passportId>434534</passportId>
+    </Owner>
+    <History>
+      <operationType>
+        <string>Перевод</string>
+        <string>Снятие</string>
+        <string>Добавление</string>
+      </operationType>
+      <TypeOfOperation>Перевод</TypeOfOperation>
+      <count>Сумма: 50 рублей</count>
+      <dataOfOreration>11 апреля 2019 г.</dataOfOreration>
+    </History>
+    <smsAlert>true</smsAlert>
+    <internetBanking>true</internetBanking>
+  </Account>
+  <Account>
+    <number>738732</number>
+    <balance>33733</balance>
+    <openingDate>02.01.2019</openingDate>
+    <depositType>До востребования</depositType>
+    <Owner>
+      <Name>Константин</Name>
+      <Surname>Мороз</Surname>
+      <MidName>Егорович</MidName>
+      <Birthday>11 апреля 2019 г.</Birthday>
+      <passportSeries>MP</passportSeries>
+      <passportId>4345534</passportId>
+    </Owner>
+    <History>
+      <operationType>
+        <string>Перевод</string>
+        <string>Снятие</string>
+        <string>Добавление</string>
+      </operationType>
+      <TypeOfOperation>Перевод</TypeOfOperation>
+      <count>Сумма: 50 рублей</count>
+      <dataOfOreration>11 апреля 2019 г.</dataOfOreration>
+    </History>
+    <smsAlert>true</smsAlert>
+    <internetBanking>false</internetBanking>
+  </Account>
+  <Account>
+    <number>738732</number>
+    <balance>33733</balance>
+    <openingDate>18.04.2019</openingDate>
+    <depositType>Расчетные вклады</depositType>
+    <Owner>
+      <Name>Елена</Name>
+      <Surname>Весёлая</Surname>
+      <MidName>Моисеевна</MidName>
+      <Birthday>11 апреля 2019 г.</Birthday>
+      <passportSeries>SW</passportSeries>
+      <passportId>434534</passportId>
+    </Owner>
+    <History>
+      <operationType>
+        <string>Перевод</string>
+        <string>Снятие</string>
+        <string>Добавление</string>
+      </operationType>
+      <TypeOfOperation>Перевод</TypeOfOperation>
+      <count>Сумма: 50 рублей</count>
+      <dataOfOreration>11 апреля 2019 г.</dataOfOreration>
+    </History>
+    <smsAlert>true</smsAlert>
+    <internetBanking>true</internetBanking>
+  </Account>
+</ArrayOfAccount>

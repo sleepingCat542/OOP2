@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<ArrayOfAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Account>
+    <number />
+    <balance />
+    <openingDate />
+    <Owner>
+      <Name>rtnr</Name>
+      <Surname>rynsrt</Surname>
+      <MidName>rtnrt</MidName>
+      <Birthday>18 апреля 2019 г.</Birthday>
+      <passportSeries>et</passportSeries>
+      <passportId>rynsr</passportId>
+    </Owner>
+    <smsAlert>true</smsAlert>
+    <internetBanking>true</internetBanking>
+  </Account>
+  <Account>
+    <number>fbdsf</number>
+    <balance>56245</balance>
+    <openingDate>11 апреля 2019 г.</openingDate>
+    <smsAlert>true</smsAlert>
+    <internetBanking>true</internetBanking>
+  </Account>
+</ArrayOfAccount>

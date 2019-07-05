@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ceed6890e3914a138562da6624330926" Name="Diagram1">
+        <EntityTypeShape EntityType="K_UNIVERModel.AUDITORIUM" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="K_UNIVERModel.AUDITORIUM_TYPE" Width="1.5" PointX="0.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="K_UNIVERModel.FACULTY" Width="1.5" PointX="0.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="K_UNIVERModel.GROUPS" Width="1.5" PointX="5.25" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="K_UNIVERModel.PROFESSION" Width="1.5" PointX="3" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="K_UNIVERModel.PULPIT" Width="1.5" PointX="3" PointY="10.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="K_UNIVERModel.STUDENT" Width="1.5" PointX="7.5" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="K_UNIVERModel.SUBJECT" Width="1.5" PointX="5.25" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="K_UNIVERModel.TEACHER" Width="1.5" PointX="5.25" PointY="11.75" IsExpanded="true" />
+        <AssociationConnector Association="K_UNIVERModel.AUDITORIUM_AUDITORIUM_TYPE_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="K_UNIVERModel.GROUPS_FACULTY_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="K_UNIVERModel.PROFESSION_FACULTY_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="K_UNIVERModel.PULPIT_FACULTY_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="K_UNIVERModel.GROUPS_PROFESSION_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="K_UNIVERModel.STUDENT_GROUP_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="K_UNIVERModel.SUBJECT_PULPIT_FK" ManuallyRouted="false" />
+        <AssociationConnector Association="K_UNIVERModel.TEACHER_PULPIT_FK" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

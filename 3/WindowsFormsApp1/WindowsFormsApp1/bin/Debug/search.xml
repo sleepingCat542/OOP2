@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<ArrayOfAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Account>
+    <number>1234</number>
+    <depositType>Срочные вклады</depositType>
+    <balance>7777</balance>
+    <openingDate>15 марта 2019 г.</openingDate>
+    <Owner>
+      <Name>Владимир</Name>
+      <Surname>Ирошко</Surname>
+      <MidName>Андреевич</MidName>
+      <Birthday>14 марта 2019 г.</Birthday>
+      <passportSeries>MP</passportSeries>
+      <passportId>554455</passportId>
+    </Owner>
+    <History>
+      <operationType>
+        <string>Перевод</string>
+        <string>Снятие</string>
+        <string>Добавление</string>
+      </operationType>
+      <TypeOfOperation>Перевод</TypeOfOperation>
+      <count>Cумма:</count>
+      <dataOfOreration>15 марта 2019 г.</dataOfOreration>
+    </History>
+    <smsAlert>true</smsAlert>
+    <internetBanking>true</internetBanking>
+  </Account>
+</ArrayOfAccount>
